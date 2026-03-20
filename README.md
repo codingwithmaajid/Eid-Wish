@@ -1,6 +1,6 @@
 # 🌙 Eid Mubarak — A Personal Memory Page
 
-A handcrafted single-page web experience made for Eid 2025. Built to celebrate family, share memories, and maybe score some Eidi. Designed using **Google Stitch** and the **Monochromatic Glass** design system.
+A handcrafted single-page web experience made for Eid 2026. Built to celebrate family, share memories, and maybe score some Eidi. Designed using **Google Stitch** and the **Monochromatic Glass** design system.
 
 ---
 
@@ -22,7 +22,7 @@ A personal Eid greeting page featuring:
 |---|---|
 | Design & Scaffold | [Google Stitch](https://stitch.withgoogle.com) (AI UI Generator) |
 | Styling | Tailwind CSS (CDN) |
-| Typography | Inter + Space Grotesk (Google Fonts) |
+| Typography | Aesthetic + Angelone  |
 | Icons | Material Symbols Outlined |
 | Design System | Monochromatic Glass Ethos (custom spec) |
 | Deployment | GitHub Pages |
@@ -50,7 +50,7 @@ Full spec is documented in [`DESIGN.md`](./DESIGN.md).
 No setup needed. Just open the file:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/eid-mubarak-page.git
+git clone https://github.com/codingwithmaajid/Eid-Wish.git
 cd eid-mubarak-page
 open index.html
 ```
@@ -62,7 +62,7 @@ Or deploy directly to GitHub Pages by pushing to the `main` branch and enabling 
 ## 📁 Project Structure
 
 ```
-eid-mubarak-page/
+Eid-Wish/
 ├── index.html      # The entire page (self-contained)
 ├── DESIGN.md       # Full design system specification
 └── README.md
