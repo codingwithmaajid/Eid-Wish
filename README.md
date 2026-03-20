@@ -9,7 +9,7 @@ A handcrafted single-page web experience made for Eid 2026. Built to celebrate f
 A personal Eid greeting page featuring:
 
 - **Hero section** — A heartfelt Eid message with editorial-style typography
-- **Auto-scrolling memory carousel** — A looping, glassmorphic carousel of family photos that pauses on hover
+- **Auto-scrolling memory carousel** — A looping, glassmorphic carousel of family photos that pauses on hovering
 - **Eidi CTA** — The most important section. A sleek dark card asking family for Eidi with full sincerity
 - **Light / Dark mode toggle** — Because aesthetics matter even on holidays
 - **Subtle dot-grid background** — Adds depth without visual clutter
