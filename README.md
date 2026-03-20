@@ -72,7 +72,7 @@ Eid-Wish/
 
 ## 🤲 Credits
 
-Made with love (and strategic Eidi intent) by **Abdul Maajid**.
+Made with love  by **Abdul Maajid**.
 
 UI scaffolded using [Google Stitch](https://stitch.withgoogle.com).
 
