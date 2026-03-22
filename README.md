@@ -2,7 +2,7 @@
 
 A handcrafted single-page web experience made for Eid 2026. Built to celebrate family, share memories, and maybe score some Eidi. Designed using **Google Stitch** and the **Monochromatic Glass** design system.
 
-the Site : (codingwithmaajid.github.io/Eid-Wish)
+the Site : [codingwithmaajid.github.io/Eid-Wish].
 
 ---
 
